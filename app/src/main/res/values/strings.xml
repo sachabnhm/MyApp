@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name ="welcome_msg">0</string>
+    <string name="main_button">Toast</string>
+    <string name="random_button">Random</string>
+    <string name="count_button">Count</string>
+</resources>
